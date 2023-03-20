@@ -1,0 +1,11 @@
+﻿  String.cpp
+C:\doc\study\研究生\outpack\uci_hw_vs\hw4_4\String.cpp(270,24): warning C4018: “<”: 有符号/无符号不匹配
+string_test.obj : error LNK2005: "void __cdecl test_assignment(void)" (?test_assignment@@YAXXZ) 已经在 hw4_4.obj 中定义
+string_test.obj : error LNK2005: "void __cdecl test_concatenate(void)" (?test_concatenate@@YAXXZ) 已经在 hw4_4.obj 中定义
+string_test.obj : error LNK2005: "void __cdecl test_constructors_and_print(void)" (?test_constructors_and_print@@YAXXZ) 已经在 hw4_4.obj 中定义
+string_test.obj : error LNK2005: "void __cdecl test_indexOf(void)" (?test_indexOf@@YAXXZ) 已经在 hw4_4.obj 中定义
+string_test.obj : error LNK2005: "void __cdecl test_input(void)" (?test_input@@YAXXZ) 已经在 hw4_4.obj 中定义
+string_test.obj : error LNK2005: "void __cdecl test_relationals(void)" (?test_relationals@@YAXXZ) 已经在 hw4_4.obj 中定义
+string_test.obj : error LNK2005: "void __cdecl test_reverse(void)" (?test_reverse@@YAXXZ) 已经在 hw4_4.obj 中定义
+string_test.obj : error LNK2005: _main 已经在 hw4_4.obj 中定义
+C:\doc\study\研究生\outpack\uci_hw_vs\hw4_4\Debug\hw4_4.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

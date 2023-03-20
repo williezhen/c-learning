@@ -1,0 +1,17 @@
+﻿  hw_7_inclass_2.cpp
+C:\doc\study\研究生\outpack\uci_hw_vs\hw_7_inclass_2\hw_7_inclass_2.cpp(32,1): error C2679: 二元“=”: 没有找到接受“int”类型的右操作数的运算符(或没有可接受的转换)
+C:\doc\study\研究生\outpack\uci_hw_vs\hw_7_inclass_2\Array.h(46,12): message : 可能是“Array<int> &Array<int>::operator =(Array<int> &)”
+C:\doc\study\研究生\outpack\uci_hw_vs\hw_7_inclass_2\hw_7_inclass_2.cpp(32,1): message : 尝试匹配参数列表“(Array<int>, int)”时
+C:\doc\study\研究生\outpack\uci_hw_vs\hw_7_inclass_2\hw_7_inclass_2.cpp(42): message : 查看对正在编译的函数 模板 实例化“void fill_with_fn<test_int_matrix::<lambda_6eb0a072366fbe9bc1cd0f7575f1507e>,int>(Matrix<int> &,FN)”的引用
+          with
+          [
+              FN=test_int_matrix::<lambda_6eb0a072366fbe9bc1cd0f7575f1507e>
+          ]
+C:\doc\study\研究生\outpack\uci_hw_vs\hw_7_inclass_2\hw_7_inclass_2.cpp(32,1): error C2679: 二元“=”: 没有找到接受“double”类型的右操作数的运算符(或没有可接受的转换)
+C:\doc\study\研究生\outpack\uci_hw_vs\hw_7_inclass_2\Array.h(46,12): message : 可能是“Array<double> &Array<double>::operator =(Array<double> &)”
+C:\doc\study\研究生\outpack\uci_hw_vs\hw_7_inclass_2\hw_7_inclass_2.cpp(32,1): message : 尝试匹配参数列表“(Array<double>, double)”时
+C:\doc\study\研究生\outpack\uci_hw_vs\hw_7_inclass_2\hw_7_inclass_2.cpp(64): message : 查看对正在编译的函数 模板 实例化“void fill_with_fn<test_double_matrix::<lambda_8d9ce2c66a3c32293070432e85662e07>,double>(Matrix<double> &,FN)”的引用
+          with
+          [
+              FN=test_double_matrix::<lambda_8d9ce2c66a3c32293070432e85662e07>
+          ]

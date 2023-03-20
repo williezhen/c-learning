@@ -1,0 +1,16 @@
+
+//alloc.h
+#include <iostream>
+
+using namespace std;
+
+class Alloc1 {
+	static int total_allocations;
+	static int total_bytes;
+	static int net_allocations;
+
+public:
+	static char* new_char_array(size_t n_bytes);
+	static void delete_char_array(char* p);
+	static void report_allocations();
+};

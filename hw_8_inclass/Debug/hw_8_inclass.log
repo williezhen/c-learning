@@ -1,0 +1,4 @@
+﻿  hw_8_inclass.cpp
+C:\doc\study\研究生\outpack\uci_hw_vs\hw_8_inclass\hw_8_inclass.cpp(178,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\doc\study\研究生\outpack\uci_hw_vs\hw_8_inclass\hw_8_inclass.cpp(239,8): warning C4101: “grade”: 未引用的局部变量
+  hw_8_inclass.vcxproj -> C:\doc\study\研究生\outpack\uci_hw_vs\hw_8_inclass\Debug\hw_8_inclass.exe

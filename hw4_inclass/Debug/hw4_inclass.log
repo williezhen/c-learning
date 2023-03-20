@@ -1,0 +1,5 @@
+﻿  string.cpp
+C:\doc\study\研究生\outpack\uci_hw_vs\hw4_inclass\string.cpp(58,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\doc\study\研究生\outpack\uci_hw_vs\hw4_inclass\string.cpp(103): warning C4715: “String::strchr”: 不是所有的控件路径都返回值
+C:\doc\study\研究生\outpack\uci_hw_vs\hw4_inclass\string.cpp(328): warning C4715: “String::operator[]”: 不是所有的控件路径都返回值
+  hw4_inclass.vcxproj -> C:\doc\study\研究生\outpack\uci_hw_vs\hw4_inclass\Debug\hw4_inclass.exe

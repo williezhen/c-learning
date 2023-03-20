@@ -1,0 +1,4 @@
+﻿  hw3.cpp
+C:\doc\study\研究生\outpack\uci_hw_vs\hw3\string.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\doc\study\研究生\outpack\uci_hw_vs\hw3\string.h(238): warning C4715: “String::operator[]”: 不是所有的控件路径都返回值
+  hw3.vcxproj -> C:\doc\study\研究生\outpack\uci_hw_vs\hw3\Debug\hw3.exe

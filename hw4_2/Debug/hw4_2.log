@@ -1,0 +1,6 @@
+﻿  string.cpp
+C:\doc\study\研究生\outpack\uci_hw_vs\hw4_2\string.cpp(58,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\doc\study\研究生\outpack\uci_hw_vs\hw4_2\string.cpp(103): warning C4715: “String::strchr”: 不是所有的控件路径都返回值
+C:\doc\study\研究生\outpack\uci_hw_vs\hw4_2\string.cpp(229): warning C4715: “String::operator[]”: 不是所有的控件路径都返回值
+C:\doc\study\研究生\outpack\uci_hw_vs\hw4_2\string.cpp(223): warning C4172: 返回局部变量或临时变量的地址: tmp
+  hw4_2.vcxproj -> C:\doc\study\研究生\outpack\uci_hw_vs\hw4_2\Debug\hw4_2.exe

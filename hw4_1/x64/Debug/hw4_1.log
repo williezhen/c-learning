@@ -1,0 +1,10 @@
+﻿  string.cpp
+C:\doc\study\研究生\outpack\uci_hw_vs\hw4\string.cpp(85,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\doc\study\研究生\outpack\uci_hw_vs\hw4\string.cpp(287,17): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+C:\doc\study\研究生\outpack\uci_hw_vs\hw4\string.cpp(295,14): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+C:\doc\study\研究生\outpack\uci_hw_vs\hw4\string.cpp(100): warning C4715: “String::strchr”: 不是所有的控件路径都返回值
+C:\doc\study\研究生\outpack\uci_hw_vs\hw4\string.cpp(227): warning C4715: “String::operator[]”: 不是所有的控件路径都返回值
+C:\doc\study\研究生\outpack\uci_hw_vs\hw4\string.cpp(206): warning C4172: 返回局部变量或临时变量的地址: tmp
+C:\doc\study\研究生\outpack\uci_hw_vs\hw4\string.cpp(221): warning C4172: 返回局部变量或临时变量的地址: tmp
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
+C:\doc\study\研究生\outpack\uci_hw_vs\hw4_1\x64\Debug\hw4_1.exe : fatal error LNK1120: 1 个无法解析的外部命令

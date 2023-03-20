@@ -1,0 +1,5 @@
+﻿  alloc.cpp
+  string.cpp
+C:\doc\study\研究生\outpack\uci_hw_vs\hw4\string.cpp(55,20): warning C4018: “<”: 有符号/无符号不匹配
+MSVCRT.lib(exe_main.obj) : error LNK2001: 无法解析的外部符号 _main
+C:\doc\study\研究生\outpack\uci_hw_vs\hw4_1\Release\hw4_1.exe : fatal error LNK1120: 1 个无法解析的外部命令

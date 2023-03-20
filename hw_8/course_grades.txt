@@ -1,0 +1,138 @@
+Name: Sideshow Bob
+HW Ave: 0
+QZ Ave: 0
+Final: 0
+Grade: F
+
+Name: Patty Bouvier
+HW Ave: 84
+QZ Ave: 84
+Final: 84
+Grade: B
+
+Name: Carl Carlson
+HW Ave: 83
+QZ Ave: 83
+Final: 83
+Grade: B
+
+Name: Krusty Clown
+HW Ave: 75
+QZ Ave: 75
+Final: 75
+Grade: C
+
+Name: Ned Flanders
+HW Ave: 100
+QZ Ave: 100
+Final: 100
+Grade: A+
+
+Name: Rod Flanders
+HW Ave: 92
+QZ Ave: 92
+Final: 92
+Grade: A-
+
+Name: Todd Flanders
+HW Ave: 95
+QZ Ave: 95
+Final: 95
+Grade: A
+
+Name: Barney Gumble
+HW Ave: 88
+QZ Ave: 88
+Final: 88
+Grade: B+
+
+Name: Julius Hibbert
+HW Ave: 97
+QZ Ave: 97
+Final: 97
+Grade: A+
+
+Name: Edna Krabappel
+HW Ave: 93
+QZ Ave: 93
+Final: 93
+Grade: A
+
+Name: Lenny Leonard
+HW Ave: 40
+QZ Ave: 43.75
+Final: 60
+Grade: F
+
+Name: Troy McClure
+HW Ave: 75
+QZ Ave: 75
+Final: 75
+Grade: C
+
+Name: Sideshow Mel
+HW Ave: 65
+QZ Ave: 65
+Final: 65
+Grade: D
+
+Name: Apu Nahasapeemapetilon
+HW Ave: 100
+QZ Ave: 100
+Final: 100
+Grade: A+
+
+Name: Bad One
+HW Ave: 0
+QZ Ave: 0
+Final: 0
+Grade: F
+
+Name: Martin Prince
+HW Ave: 92
+QZ Ave: 92
+Final: 92
+Grade: A-
+
+Name: Bart Simpson
+HW Ave: 69
+QZ Ave: 69
+Final: 69
+Grade: D+
+
+Name: Homer Simpson
+HW Ave: 62
+QZ Ave: 62
+Final: 62
+Grade: D-
+
+Name: Lisa Simpson
+HW Ave: 100
+QZ Ave: 100
+Final: 100
+Grade: A+
+
+Name: Marge Simpson
+HW Ave: 80
+QZ Ave: 80
+Final: 80
+Grade: B-
+
+Name: Moe Szyslak
+HW Ave: 70
+QZ Ave: 70
+Final: 70
+Grade: C-
+
+Name: Milhouse VanHouten
+HW Ave: 78
+QZ Ave: 78
+Final: 78
+Grade: C+
+
+Name: Chief Wiggum
+HW Ave: 65
+QZ Ave: 65
+Final: 65
+Grade: D
+
